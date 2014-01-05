@@ -47,7 +47,8 @@ Messages
     "x": 0,
     "y": 0,
   },
-  "angle": 0,
+  "orientation": 0,
+  "trajectory": 0,
   "velocity": 0
 }
 ```
