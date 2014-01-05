@@ -8,6 +8,7 @@ EOW Specification
 * [Messages](#messages)
   * [Orientation](#orientation-message)
   * [Attack](#attack-message)
+  * [Inventory](#inventory-message)
 
 Basic Concepts
 --------------
@@ -68,3 +69,15 @@ Messages
   "range": 0
 }
 ```
+
+### Inventory Message
+
+The following message facilitates trading, dropping, using and crafting items.
+
+```json
+{
+  "action": "actionName",
+  "input": [ ],
+  "output": [ ],
+  "args": { }
+}
