@@ -2,6 +2,7 @@ EOW Specification
 =================
 
 * [Basic Concepts](#basic-concepts)
+  * [Gameplay](#gameplay)
   * [World](#world)
   * [Implementation](#implementation)
 * [Messages](#messages)
@@ -10,6 +11,11 @@ EOW Specification
 
 Basic Concepts
 --------------
+
+### Gameplay
+
+Players control ships, with the aim of moving from one area to another to trade,
+gather resources, attack other ships, or simply see the sights.
 
 ### World
 
