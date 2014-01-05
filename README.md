@@ -9,6 +9,7 @@ EOW Specification
   * [Orientation](#orientation-message)
   * [Attack](#attack-message)
   * [Inventory](#inventory-message)
+  * [Chat](#chat-message)
 
 Basic Concepts
 --------------
@@ -80,4 +81,12 @@ The following message facilitates trading, dropping, using and crafting items.
   "input": [ ],
   "output": [ ],
   "args": { }
+}
+
+### Chat Message
+
+```json
+{
+  "target": "player/#channel",
+  "message": ""
 }
