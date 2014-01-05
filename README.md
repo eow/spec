@@ -1,9 +1,9 @@
 EOW Specification
 =================
 
-* [Messages](messages)
-  * [Orientation](orientation-message)
-  * [Attack](attack-message)
+* [Messages](#messages)
+  * [Orientation](#orientation-message)
+  * [Attack](#attack-message)
 
 Messages
 -------
