@@ -82,6 +82,7 @@ The following message facilitates trading, dropping, using and crafting items.
   "output": [ ],
   "args": { }
 }
+```
 
 ### Chat Message
 
@@ -90,3 +91,4 @@ The following message facilitates trading, dropping, using and crafting items.
   "target": "player/#channel",
   "message": ""
 }
+```
